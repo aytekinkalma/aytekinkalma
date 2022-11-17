@@ -1,4 +1,3 @@
-##[![MasterHead,width="200"](https://www.analyticsinsight.net/wp-content/uploads/2021/08/Data-Analytics-vs-Data-Science-vs-Machine-Learning.jpg)]
 <h1 align="center">Hi 👋, I'm Aytekin Kalma</h1>
 <h3 align="center">I'm interested in Data Analytics, Data Science, Artificial Intelligence.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
